@@ -87,5 +87,10 @@ ul {
     border: 2px solid;
   }
 
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
 
-
+img {
+    border: #f5f4d9 solid 2px;
+}
