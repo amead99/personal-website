@@ -1,2 +1,2 @@
 # personal-website
-Personal Website project for block 9. The site will have at least three pages; Home, About and Portfolio. 
+Personal Website project for block 9. Contains three pages, Home, About and Portfolio. Home contains introductory paragraph and image. About contains a background paragraph and image. Portfolio contains a table that will hold future projects. All pages have header and footer with links (to other pages and social media, respectively) and CSS styling. Javascript file includes pop-up that welcomes user to the website.
