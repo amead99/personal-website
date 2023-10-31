@@ -1,0 +1,91 @@
+body {
+    background-color: #304F2A;
+    color: #f5f4d9;
+    font-family: Rosmatika;
+    margin: 0px;
+    text-align: center;
+}
+
+@font-face {
+    font-family: Rosmatika;
+    src: url(./media/rosmatika-font/RosmatikaRegular-BWA45.ttf);
+}
+
+header {
+    display: inline-block;
+    flex-direction: row;
+    position: sticky;
+    top: 0;
+    color: #304F2A;
+    background-color: #f5f4d9;
+    z-index: 10;
+    width: 100%;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    height:fit-content;
+}
+
+nav {
+    /*display: inline-block; */
+    /*justify-content: space-between; */
+    /*flex-wrap: nowrap; */
+    text-align: right;
+    margin: 0;
+    padding: 0;
+    padding-right: 2%;
+    float: right;
+
+}
+
+#logo {
+    margin: 2%;
+    text-align: left;
+}
+
+a {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    justify-content: space-between;
+  }
+
+  li {
+    display: inline-block;
+    padding: 5px;
+    font-size: large;
+  }
+
+  .top-nav {
+    margin: 0;
+    padding: 0;
+  }
+
+  main {
+    padding: 2%;
+  }
+
+  footer {
+    display: inline-block;
+    flex-direction: row;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    color: #f5f4d9;
+    background-color: #304F2A;
+    z-index: 10;
+    width: 100%;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    height:fit-content;
+    text-align: left;
+    border: 2px solid;
+  }
+
+
+
